@@ -3,3 +3,10 @@
 ################################################################################
 
 /GH-book_01/Release
+/GH-book_01/Debug
+/GH-book_01/.vs/GH-book_01/v15
+/.vs
+/GH-book_01/GH-book_01.vcxproj.user
+/GH-book_01/GH-book_01.vcxproj.filters
+/GH-book_01/GH-book_01.vcxproj
+/GH-book_01/GH-book_01.sln
